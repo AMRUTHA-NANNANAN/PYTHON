@@ -1,0 +1,11 @@
+#demo of len(string)
+s = ' !Learining  !Python !iS !FUN !'
+print("length of", s , "is" ,len(s))
+print("1",s.lower())
+print("2",s.upper())
+print("3",s.swapcase())
+print("4",s.capitalize())
+print("5",s.title())
+print("maximuim chrecter is:",max(s))
+print("minimuim charecter is :",min(s))
+print()
